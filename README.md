@@ -3,10 +3,7 @@ This project is a dynamic and responsive web and mobile application developed us
 # Preview
 
 # Key Features:
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-12-08 at 23 22 28](https://github.com/disconnectuss/CaseHyper-ReactNative/assets/129686850/81728ea3-9630-4bad-a65f-b7c5808c535b)
-
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-12-08 at 22 27 33](https://github.com/disconnectuss/CaseHyper-ReactNative/assets/129686850/272d429a-ec40-4114-af9a-a7205f603437)
-
+![ezgif com-gif-maker](https://github.com/disconnectuss/CaseHyper-ReactNative/assets/129686850/6b71fb0d-a3a0-4e9a-8b82-48b71d37ef4a)
 
 - - Join Our Team:
 
