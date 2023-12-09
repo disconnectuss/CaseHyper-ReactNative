@@ -3,9 +3,10 @@ This project is a dynamic and responsive web and mobile application developed us
 # Preview
 
 # Key Features:
-![ezgif com-gif-maker](https://github.com/disconnectuss/CaseHyper-ReactNative/assets/129686850/6b71fb0d-a3a0-4e9a-8b82-48b71d37ef4a)
 
-- - Join Our Team:
+https://github.com/disconnectuss/CaseHyper-ReactNative/assets/129686850/ad708766-11cf-41f5-804d-e8d7d118af73
+
+- Join Our Team:
 
 The heart of the application is a user-friendly form, inviting candidates to submit their information seamlessly.
 
