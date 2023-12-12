@@ -43,22 +43,11 @@ Copy code
 npm install
 Run the Application:
 
-For the web version:
-bash
-Copy code
-npm run start-web
 For the mobile version:
 bash
 Copy code
 npm run start-mobile
 Visit the Application:
-
-Open your web browser and navigate to http://localhost:3000/ for the web version.
-For the mobile version, use an emulator or a physical device with the Expo Go app installed.
-Submit Your Details:
-
-Fill out the form fields and click submit to express your interest in joining our dynamic team.
-Explore the application, and embark on a journey to become a valuable part of our software company!
 
 # Dependencies:
 React Navigation
