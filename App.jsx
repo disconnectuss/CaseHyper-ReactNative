@@ -18,7 +18,7 @@ function App() {
             <HeaderComponent title={route.name} />
           ),
         }}>
-        <Stack.Screen name="HYPER COMPANY" component={HomePage}/>
+        <Stack.Screen name="Tech Taste" component={HomePage}/>
         <Stack.Screen name="Confirm" component={Confirm} />
       </Stack.Navigator>
     </NavigationContainer>
