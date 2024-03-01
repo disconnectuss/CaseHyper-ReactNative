@@ -3,8 +3,7 @@ This project is a dynamic and responsive web and mobile application developed us
 # Preview
 
 # Key Features:
-
-https://github.com/disconnectuss/LoginForm--ReactNative/assets/129686850/f2f7b83a-0baf-4c84-8f14-c0898347c304
+https://github.com/disconnectuss/LoginForm--ReactNative/assets/129686850/641b1490-bc93-4801-b536-490221f9ff28
 
 - Join Our Team:
 
